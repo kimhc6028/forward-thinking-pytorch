@@ -38,4 +38,4 @@ For 4 layers, forward-thinking learns slightly faster than backpropagation. Dips
 
 When the model becomes very deep (20 layers), backpropagation cannot train the model. On the other hand, forward-thinking can train the model as usual.
 
-<img src="./result/.png" width="680">
+<img src="./result/result.png" width="680">
