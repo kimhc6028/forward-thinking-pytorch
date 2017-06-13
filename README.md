@@ -25,11 +25,11 @@ If you want to do this with very deep model (20 layers),
 
 As a comparison, learn by back propagation:
 
-  $ python backpropagate.py
+  	$ python backpropagate.py
 
 Backpropagate with very deep model (20 layers),
 
-  $ python backpropagate.py --epoch 200 --deep
+  	$ python backpropagate.py --epoch 200 --deep
 
 
 ## Result
