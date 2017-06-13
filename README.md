@@ -23,7 +23,7 @@ If you want to do this with very deep model (20 layers),
 
  	$ python forward_thinking.py --epoch 200 --deep
 
-As a comparison, learn by back propagation:
+As a comparison, learn by backpropagation:
 
   	$ python backpropagate.py
 
