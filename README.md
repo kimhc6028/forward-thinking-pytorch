@@ -15,7 +15,7 @@ Pytorch implementation of [Forward Thinking: Building and Training Neural Networ
 
 to run forward-thinking & forward-thinking (deep) & backpropagation & backpropagation (deep).
 
-For forward-thinking experiment (4 layers),
+For forward-thinking experiment (5 layers),
 
  	$ python forward_thinking.py
   
@@ -34,7 +34,7 @@ Backpropagate with very deep model (20 layers),
 
 ## Result
 
-For 4 layers, forward-thinking learns slightly faster than backpropagation. Dips are observed when new layers are added.
+For 5 layers, forward-thinking learns slightly faster than backpropagation. Dips are observed when new layers are added.
 
 When the model becomes very deep (20 layers), backpropagation cannot train the model. On the other hand, forward-thinking can train the model as usual.
 
